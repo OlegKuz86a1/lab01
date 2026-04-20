@@ -51,6 +51,11 @@ class InsecureClass:
         return self.__private_var
 
 if __name__ == "__main__":
+    # === ИЗМЕНЕНИЕ #6 ===
+    name = input("Enter your name: ")
+    print(f"Hello appsec world from @{name}")
+    # ==========================
+    
     print("=== Hello AppSec World - Dirty Code Example ===")
     
     hello_appsec_world()
