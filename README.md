@@ -21,7 +21,7 @@
 
 ```bash
 meFolder
-├── GIST_lab01.md
+├── hello.py
 └── README.md
 ```
 
